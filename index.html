@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <!-- Site made with Mobirise Website Builder v4.8.2, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v4.8.2, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets2/images/logo4.png" type="image/x-icon">
+  <meta name="description" content="Web Site Creator Description">
+  <title>ABOUT</title>
+  <link rel="stylesheet" href="assets2/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets2/tether/tether.min.css">
+  <link rel="stylesheet" href="assets2/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets2/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets2/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets2/theme/css/style.css">
+  <link rel="stylesheet" href="assets2/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+</head>
+<body>
+  <section class="header5 cid-radoeuWocJ mbr-fullscreen mbr-parallax-background" id="header5-15">
+
+    
+
+    <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(255, 255, 255);">
+    </div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="mbr-white col-md-10">
+                <h1 class="mbr-section-title align-center pb-3 mbr-fonts-style display-1"><strong>i-CAS QUIZ</strong><strong></strong></h1>
+                <p class="mbr-text align-center display-5 pb-3 mbr-fonts-style"><strong>i-CAS (Interactive Classroom-based Assessment System)&nbsp;</strong><br><br><br>Interactive Classroom-based Assessment System (ICAS) is a mobile-user friendly web application that helps the lecturers evaluate the students’ understanding of the courses and analyse the data of the quiz result based on the performance measurement such as time taken to finish the quiz, number of question correct, percentage of students passed the quiz, hardest question that most of the student answer wrongly, etc.<br><br><br><br>Contact : 018-5727077<br> Email :ljk_1234@hotmail.com<br><strong></strong></p>
+                <div class="mbr-section-btn align-center"><a class="btn btn-md btn-secondary display-4" href="page2.html">LET'S START</a></div>
+            </div>
+        </div>
+    </div>
+
+    
+</section>
+
+
+  <section class="engine"><a href="https://mobiri.se/i">free web creation software</a></section><script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets2/popper/popper.min.js"></script>
+  <script src="assets2/tether/tether.min.js"></script>
+  <script src="assets2/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets2/smoothscroll/smooth-scroll.js"></script>
+  <script src="assets2/parallax/jarallax.min.js"></script>
+  <script src="assets2/theme/js/script.js"></script>
+  
+  
+</body>
+</html>
