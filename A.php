@@ -64,12 +64,12 @@
 			$row = $result->fetch_assoc();
 			
 			if ($row['QUIZ_ID']==$quiz){
-				header("Location: http://icasquiz.online/page30.php");
+				header("Location: https://github.com/syahiraMR/EfeOnlineQuiz/blob/master/page30.php");
 			}
 			else
 			{
 				
-				header("Location: http://icasquiz.online/page42.php");
+				header("Location: https://github.com/syahiraMR/EfeOnlineQuiz/blob/master/page42.php");
 				exit;
 			}
 			
