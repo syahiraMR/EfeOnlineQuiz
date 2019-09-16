@@ -47,7 +47,7 @@ if($conn === false){
         <div class="menu-logo">
             <div class="navbar-brand">
                 
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="https://icasquiz.online/page2.html" target="_blank">
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="https://github.com/syahiraMR/EfeOnlineQuiz/blob/master/page2.html" target="_blank">
                         ICAS QUIZ SYSTEM</a></span>
             </div>
         </div>
