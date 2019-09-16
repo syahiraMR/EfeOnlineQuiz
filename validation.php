@@ -34,7 +34,7 @@
 			       
 			        if($role == 1)
 			        {
-			            header("Location: http://icasquiz.online/page5.php");
+			            header("Location: page5.php");
 	                    exit;
 			        }
 			        else if($role == 2)
