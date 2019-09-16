@@ -39,17 +39,17 @@
 			        }
 			        else if($role == 2)
 					{
-			            header("Location: http://icasquiz.online/page6.php");
+			            header("Location: https://github.com/syahiraMR/EfeOnlineQuiz/blob/master/page6.php");
 	                    exit;
 			        }
 					else if($role == 3)
 					{
-			            header("Location: http://icasquiz.online/page15.php");
+			            header("Location: https://github.com/syahiraMR/EfeOnlineQuiz/blob/master/page15.php");
 	                    exit;
 			        }
 					else if($role == 4)
 					{
-			            header("Location:http://icasquiz.online/page4.php");
+			            header("Location:https://github.com/syahiraMR/EfeOnlineQuiz/blob/master/page4.php");
 	                    exit;
 			        }
 					
@@ -58,7 +58,7 @@
 				
 		else
 		{
-			header("Location: http://icasquiz.online/page22.html");
+			header("Location: https://github.com/syahiraMR/EfeOnlineQuiz/blob/master/page22.html");
 			exit;
 		}
 	
