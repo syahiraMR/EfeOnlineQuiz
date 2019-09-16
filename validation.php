@@ -34,7 +34,7 @@
 			       
 			        if($role == 1)
 			        {
-			            header("Location: page5.php");
+			            header("Location: https://github.com/syahiraMR/EfeOnlineQuiz/blob/master/page5.php");
 	                    exit;
 			        }
 			        else if($role == 2)
