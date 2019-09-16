@@ -2,7 +2,7 @@
 session_start();
 if($_SESSION['login_id'] == null)
 {
-    header("Location: http://icasquiz.online/page22.html");
+    header("Location:https://github.com/syahiraMR/EfeOnlineQuiz/blob/master/page22.html");
     exit;
 }
 include("connect.php");
