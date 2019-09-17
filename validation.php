@@ -64,3 +64,4 @@
 	
 mysqli_close($conn);
 ?>
+<meta charset="utf-8"/>
