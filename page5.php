@@ -47,7 +47,7 @@ if($conn === false){
         <div class="menu-logo">
             <div class="navbar-brand">
                 
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="https://github.com/syahiraMR/EfeOnlineQuiz/blob/master/page2.html" target="_blank">
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="http://www.efequizonline.tk/page2.html" target="_blank">
                         ICAS QUIZ SYSTEM</a></span>
             </div>
         </div>
@@ -136,7 +136,7 @@ if($conn === false){
                 <div class="card-wrapper media-container-row media-container-row">
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7"><strong>
-                            ICAS QUIZ SYSTEM</strong></h4>
+                           EFE QUIZ SYSTEM</strong></h4>
                         <p class="mbr-text mbr-fonts-style display-7">Final Year Project,<br>Networking.<br><br>2018 © Copyright, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>All Right Reserved.<br></p>
                     </div>
                 </div>
@@ -147,7 +147,7 @@ if($conn === false){
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7"><strong>
                             Developer</strong></h4>
-                        <p class="mbr-text mbr-fonts-style display-7">LEE JUN KIT&nbsp;<br><br>Bachelor Computer <br>Science Networking,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<br>FSKTM, UPM.</p>
+                        <p class="mbr-text mbr-fonts-style display-7">Syahira Razali&nbsp;<br><br>Bachelor Computer <br>Science Networking,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<br>FSKTM, UPM.</p>
                     </div>
                 </div>
             </div>
