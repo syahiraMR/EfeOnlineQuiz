@@ -27,7 +27,7 @@
 
     <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(255, 255, 255);">
     </div>
-   <div class="container">
+    <div class="container">
         <div class="row justify-content-center">
             <div class="media-container-column title col-12 col-md-10">
                 <h2 mbr-if="showTitle" class="align-left mbr-bold mbr-white pb-3 mbr-fonts-style" mbr-theme-style="display-2">&nbsp;WELCOME TO EFE SYSTEM<br><br></h2>
