@@ -29,12 +29,10 @@
     </div>
     <div class="container">
         <div class="row justify-content-center">
-            <div class="media-container-column title col-12 col-md-10">
-                <h2 mbr-if="showTitle" class="align-left mbr-bold mbr-white pb-3 mbr-fonts-style" mbr-theme-style="display-2">&nbsp;WELCOME TO EFE SYSTEM<br><br></h2>
-                <h3 mbr-if="showSubtitle" class="mbr-section-subtitle align-left mbr-light mbr-white pb-3 mbr-fonts-style" mbr-theme-style="display-5">
-                    Shape your future with knowledge and on-going learning</h3>
-                <p class="mbr-text align-left mbr-white mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showText" mbr-article data-app-selector=".mbr-text, .mbr-section-btn" data-multiline>New inovation for quiz evaluation to give user new experience with EFE System.<br>Easy quiz platform for university and student&nbsp;<br><br></p>
-                <div class="mbr-section-btn align-left py-4" mbr-if="showButtons" data-toolbar="-mbrBtnMove" mbr-buttons mbr-theme-style="display-4"><a class="btn btn-primary" href="page2.html" data-app-placeholder="Type Text">LET'S START</a></div>
+            <div class="mbr-white col-md-10">
+                <h1 class="mbr-section-title align-center pb-3 mbr-fonts-style display-1"><strong>i-CAS QUIZ</strong><strong></strong></h1>
+                <p class="mbr-text align-center display-5 pb-3 mbr-fonts-style"><strong>i-CAS (Interactive Classroom-based Assessment System)&nbsp;</strong><br><br><br>Interactive Classroom-based Assessment System (ICAS) is a mobile-user friendly web application that helps the lecturers evaluate the students’ understanding of the courses and analyse the data of the quiz result based on the performance measurement such as time taken to finish the quiz, number of question correct, percentage of students passed the quiz, hardest question that most of the student answer wrongly, etc.<br><br><br><br>Contact : 018-5727077<br> Email :ljk_1234@hotmail.com<br><strong></strong></p>
+                <div class="mbr-section-btn align-center"><a class="btn btn-md btn-secondary display-4" href="page2.html">LET'S START</a></div>
             </div>
         </div>
     </div>
