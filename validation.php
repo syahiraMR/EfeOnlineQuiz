@@ -5,9 +5,9 @@
     	die("Connection failed with Error:".mysqli_connect_error());
 	}
 
-	$login_id = $_GET["name"];
+	$login_id = $_POST["name"];
 	$name = "";
-	$password = $_GET["password"];
+	$password = $_POST["password"];
 	$role = "";
 	$uni_id = "";
 	$class_id = "";
