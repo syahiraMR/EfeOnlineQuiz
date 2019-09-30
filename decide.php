@@ -17,21 +17,21 @@ if($conn === false){
 			$role = $_SESSION["session_role"];
 				if($role == 1)
 			        {
-			            header("Location: http://icasquiz.online/page5.php");
+			            header("Location: http://www.efequizonline.tk/page5.php");
 	                    exit;
 			        }
 			        else if($role == 2)
 					{
-			            header("Location: http://icasquiz.online/page6.php");
+			            header("Location: http://www.efequizonline.tk/page6.php");
 	                    exit;
 			        }
 					else if($role == 3)
 					{
-			            header("Location: http://icasquiz.online/page15.php");
+			            header("Location: http://www.efequizonline.tk/page15.php");
 	                    exit;
 			        }
 					else {
-						header("Location: http://icasquiz.online/page22.html");
+						header("Location: http://www.efequizonline.tk/page22.html");
 						exit;
 					}
 ?>
