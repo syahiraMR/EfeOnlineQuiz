@@ -11,7 +11,7 @@
 	$name=$_POST["name"];
 	$sql1= "INSERT INTO TESTID (NAME) VALUES ('$name')";
 	$result1 = mysqli_query($conn, $sql1);
-	$sql2= "SELECT TEST_ID FROM TESTID WHERE NAME= '$name';";
+	$sql2= "SELECT TEST_ID FROM testid WHERE NAME= '$name';";
 	$result2 = mysqli_query( $conn, $sql2 );
 	$row = $result2->fetch_assoc();
 	$test_id = $row['TEST_ID'];
@@ -40,7 +40,7 @@
 
 				print_r($temp_array);
 				//sql query to insert into database
-	            $sql = "INSERT into TEST (TEST_ID,TYPE,QUESTION,h1,h2,h3,h4,h5,h6,h7,h8,h9,h10,h11,h12,h13,h14,h15,h16) 
+	            $sql = "INSERT into test (TEST_ID,TYPE,QUESTION,h1,h2,h3,h4,h5,h6,h7,h8,h9,h10,h11,h12,h13,h14,h15,h16) 
                    values ('$test_id','".$temp_array[0]."','".$temp_array[1]."','".$temp_array[2]."','".$temp_array[3]."','".$temp_array[4]."','".$temp_array[5]."','".$temp_array[6]."','".$temp_array[7]."','".$temp_array[8]."','".$temp_array[9]."','".$temp_array[10]."','".$temp_array[11]."','".$temp_array[12]."','".$temp_array[13]."','".$temp_array[14]."','".$temp_array[15]."','".$temp_array[16]."','".$temp_array[17]."')";
 				echo $sql;
                    $result = mysqli_query($conn, $sql);
