@@ -42,31 +42,31 @@
 					$result1 = mysqli_query( $conn, $sql5 );
 				while($row = mysqli_fetch_assoc($result1)){
 					if ($row['TYPE']== "TF"){
-						header("Location: http://icasquiz.online/TF.php");
+						header("Location: http://www.efequizonline.tk/TF.php");
 						exit;
 					}
 					elseif ($row['TYPE']== "MA"){
-						header("Location: http://icasquiz.online/MA.php");
+						header("Location: http://www.efequizonline.tk/MA.php");
 						exit;
 					}	
 					elseif ($row['TYPE']== "MC" && $row['h9']==''){
-						header("Location: http://icasquiz.online/q4.php");
+						header("Location: http://www.efequizonline.tk/q4.php");
 						exit;
 					}	
 					elseif ($row['TYPE']== "MC" && $row['h9']!=='' && $row['h11']==''){
-						header("Location: http://icasquiz.online/q5.php");
+						header("Location: http://www.efequizonline.tk/q5.php");
 						exit;
 					}
 					elseif ($row['TYPE']== "MC" && $row['h11']!=='' && $row['h13']==''){
-						header("Location: http://icasquiz.online/q6.php");
+						header("Location: http://www.efequizonline.tk/q6.php");
 						exit;
 					}
 					elseif ($row['TYPE']== "MC" && $row['h13']!=='' && $row['h15']==''){
-						header("Location: http://icasquiz.online/q7.php");
+						header("Location: http://www.efequizonline.tk/q7.php");
 						exit;
 					}
 					elseif ($row['TYPE']== "MC" && $row['h15']!=='' && $row['h17']==''){
-						header("Location: http://icasquiz.online/q8.php");
+						header("Location: http://www.efequizonline.tk/q8.php");
 						exit;
 					}
 					else{}
@@ -75,7 +75,7 @@
 			else
 			{
 				
-				header("Location: http://icasquiz.online/last.php");
+				header("Location: http://www.efequizonline.tk/last.php");
 				exit;
 			}
 			
