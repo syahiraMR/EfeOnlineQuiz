@@ -2,7 +2,7 @@
 session_start();
 if($_SESSION['login_id'] == null)
 {
-    header("Location: http://icasquiz.online/page22.html");
+    header("Location: http://www.efequizonline.tk/page22.html");
     exit;
 }
 include("connect.php");
