@@ -50,10 +50,10 @@
 							alert(\"Invalid File:Please Upload CSV File.\");
 						    
 						  </script>";
-				   // header("Location: http://icasquiz.online/file.php");
+				   // header("Location: http://www.efequizonline.tk/file.php");
 	                    exit;
 				}
-			//header("Location: http://icasquiz.online/page106.php");	
+			//header("Location: http://www.efequizonline.tk/page106.php");	
 	         }
 			 
 	         fclose($file);
