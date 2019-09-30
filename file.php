@@ -40,7 +40,7 @@
             <div class="navbar-brand">
                 
                 <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="page2.html" target="_blank">
-                        ICAS QUIZ SYSTEM</a></span>
+                        EFE QUIZ SYSTEM</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -113,7 +113,7 @@
                 <div class="card-wrapper media-container-row media-container-row">
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7"><strong>
-                            ICAS QUIZ SYSTEM</strong></h4>
+                            EFE QUIZ SYSTEM</strong></h4>
                         <p class="mbr-text mbr-fonts-style display-7">Final Year Project,<br>Networking.<br><br>2018 © Copyright, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>All Right Reserved.<br></p>
                     </div>
                 </div>
@@ -124,7 +124,7 @@
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7"><strong>
                             Developer</strong></h4>
-                        <p class="mbr-text mbr-fonts-style display-7">LEE JUN KIT&nbsp;<br><br>Bachelor Computer <br>Science Networking,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<br>FSKTM, UPM.</p>
+                        <p class="mbr-text mbr-fonts-style display-7"> Syahira Razali&nbsp;<br><br>Bachelor Computer <br>Science Networking,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<br>FSKTM, UPM.</p>
                     </div>
                 </div>
             </div>
@@ -144,7 +144,7 @@
                         <h4 class="card-title pb-3 mbr-fonts-style display-7"><strong>
                             Contact</strong></h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Phone: &nbsp; &nbsp;0185727077<br><br>Visit us at University <br>Putra Malaysia, 43400 &nbsp;&nbsp;&nbsp;<br>Serdang, Selangor.</p>
+                            Phone: &nbsp; &nbsp;0172078967<br><br>Visit us at University <br>Putra Malaysia, 43400 &nbsp;&nbsp;&nbsp;<br>Serdang, Selangor.</p>
                     </div>
                 </div>
             </div>
