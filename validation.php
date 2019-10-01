@@ -34,7 +34,7 @@
 			       
 			        if($role == 1)
 			        {
-			            header("Location: https://github.com/syahiraMR/EfeOnlineQuiz/blob/master/page5.php);
+			            header("Location: http://www.efequizonline.tk/page5.php");
 	                    exit;
 			        }
 			        else if($role == 2)
