@@ -1,16 +1,16 @@
 <?php
-session_start();
+session_start();/*
 if($_SESSION['login_id'] == null)
 {
     header("Location: http://www.efequizonline.tk/page22.html");
     exit;
-}
+} */ 
 include("connect.php");
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 if($conn === false){
     die("ERROR: Could not connect. " . mysqli_connect_error());
 }
-$login=$_SESSION['login_id'];
+$login=$_SESSION['LOGIN_ID'];
 $sql= "SELECT * FROM login WHERE LOGIN_ID= $login";
 $result = mysqli_query( $conn, $sql );
 	$row = mysqli_fetch_assoc($result);
