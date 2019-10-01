@@ -1,5 +1,5 @@
 <?php
-$servername = 'localhost:82';
+$servername = 'localhost';
 $username = 'root';
 $password = '123456say';
 $dbname = 'efedb';
