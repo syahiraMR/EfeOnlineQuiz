@@ -2,7 +2,7 @@
 session_start();
 if($_SESSION['login_id'] == null)
 {
-    header("Location: https://github.com/syahiraMR/EfeOnlineQuiz/blob/master/page22.html");
+    header("Location: http://www.efequizonline.tk/page22.html");
     exit;
 }
 include("connect.php");
@@ -11,7 +11,7 @@ if($conn === false){
     die("ERROR: Could not connect. " . mysqli_connect_error());
 }
 $login=$_SESSION['login_id'];
-$sql= "SELECT * FROM LOGIN WHERE LOGIN_ID= $login";
+$sql= "SELECT * FROM login WHERE LOGIN_ID= $login";
 $result = mysqli_query( $conn, $sql );
 	$row = mysqli_fetch_assoc($result);
 	$name=$row['NAME'];
@@ -58,7 +58,7 @@ $result = mysqli_query( $conn, $sql );
             <div class="navbar-brand">
                 
                 <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="page2.html" target="_blank">
-                        ICAS QUIZ SYSTEM</a></span>
+                        EFE QUIZ SYSTEM</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -149,7 +149,7 @@ $result = mysqli_query( $conn, $sql );
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7"><strong>
                             Developer</strong></h4>
-                        <p class="mbr-text mbr-fonts-style display-7">LEE JUN KIT&nbsp;<br><br>Bachelor Computer <br>Science Networking,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<br>FSKTM, UPM.</p>
+                        <p class="mbr-text mbr-fonts-style display-7">Syahira Razali&nbsp;<br><br>Bachelor Computer <br>Science Networking,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<br>FSKTM, UPM.</p>
                     </div>
                 </div>
             </div>
@@ -169,7 +169,7 @@ $result = mysqli_query( $conn, $sql );
                         <h4 class="card-title pb-3 mbr-fonts-style display-7"><strong>
                             Contact</strong></h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Phone: &nbsp; &nbsp;0185727077<br><br>Visit us at University <br>Putra Malaysia, 43400 &nbsp;&nbsp;&nbsp;<br>Serdang, Selangor.</p>
+                            Phone: &nbsp; &nbsp;0172078967<br><br>Visit us at University <br>Putra Malaysia, 43400 &nbsp;&nbsp;&nbsp;<br>Serdang, Selangor.</p>
                     </div>
                 </div>
             </div>
