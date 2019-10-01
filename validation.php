@@ -12,7 +12,7 @@
 	$uni_id = "";
 	$class_id = "";
 	
-	$sql = "SELECT NAME,ROLE,UNI_ID,CLASS_ID FROM `LOGIN` WHERE LOGIN_ID = '".$login_id."' AND PASSWORD = '".$password."' ";
+	$sql = "SELECT NAME,ROLE,UNI_ID,CLASS_ID FROM `login` WHERE LOGIN_ID = '".$login_id."' AND PASSWORD = '".$password."' ";
 
 	$user_data = mysqli_query($conn, $sql);
 
