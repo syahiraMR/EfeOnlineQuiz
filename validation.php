@@ -1,3 +1,4 @@
+<meta charset="utf-8"/>
 <?php 
 	include("connect.php");
 	$conn = new mysqli($servername, $username, $password, $dbname);
