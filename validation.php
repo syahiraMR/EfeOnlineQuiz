@@ -1,4 +1,6 @@
-<meta charset="utf-8"/>
+<head>
+	<meta charset="utf-8"/>
+</head>
 <?php 
 	include("connect.php");
 	$conn = new mysqli($servername, $username, $password, $dbname);
