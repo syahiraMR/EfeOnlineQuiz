@@ -1,4 +1,3 @@
-
 <?php 
 	include("connect.php");
 	$conn = new mysqli($servername, $username, $password, $dbname);
@@ -35,7 +34,7 @@
 			       
 			        if($role == 1)
 			        {
-			            header("Location: http://www.efequizonline.tk/page5.html");
+			            header("Location: http://www.efequizonline.tk/page5.php");
 	                    exit;
 			        }
 			        else if($role == 2)
@@ -59,7 +58,7 @@
 				
 		else
 		{
-			header("Location: http://www.efequizonline.tk/page22.html");
+			header("Location: http://www.efequizonline.tk/page22.php");
 			exit;
 		}
 	
