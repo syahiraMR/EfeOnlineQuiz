@@ -194,7 +194,7 @@ chart.render();
             <div class="navbar-brand">
                 
                 <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="page2.html" target="_blank">
-                        ICAS QUIZ SYSTEM</a></span>
+                         QUIZ SYSTEM</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
