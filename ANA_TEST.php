@@ -72,7 +72,7 @@ chart.render();
             <div class="navbar-brand">
                 
                 <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="page2.html" target="_blank">
-                        ICAS QUIZ SYSTEM</a></span>
+                         QUIZ SYSTEM</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -113,55 +113,7 @@ chart.render();
     
 </section>
 
-<section class="features4 cid-radnylQtWb" id="features4-11">
-    
-         
 
-    
-    <div class="container">
-        <div class="media-container-row">
-            <div class="card p-3 col-12 col-md-6 col-lg-3">
-                <div class="card-wrapper media-container-row media-container-row">
-                    <div class="card-box">
-                        <h4 class="card-title pb-3 mbr-fonts-style display-7"><strong>
-                            ICAS QUIZ SYSTEM</strong></h4>
-                        <p class="mbr-text mbr-fonts-style display-7">Final Year Project,<br>Networking.<br><br>2018 © Copyright, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>All Right Reserved.<br></p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="card p-3 col-12 col-md-6 col-12 col-md-6 col-lg-3">
-                <div class="card-wrapper media-container-row">
-                    <div class="card-box">
-                        <h4 class="card-title pb-3 mbr-fonts-style display-7"><strong>
-                            Developer</strong></h4>
-                        <p class="mbr-text mbr-fonts-style display-7">LEE JUN KIT&nbsp;<br><br>Bachelor Computer <br>Science Networking,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<br>FSKTM, UPM.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="card p-3 col-12 col-md-6 col-lg-3">
-                <div class="card-wrapper media-container-row">
-                    <div class="card-box">
-                        <h4 class="card-title pb-3 mbr-fonts-style display-7"><strong>Supervisor</strong></h4>
-                        <p class="mbr-text mbr-fonts-style display-7">Mr. Mohd. Noor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Derahman,<br><br>Lecturer FSKTM, <br>UPM<br></p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="card p-3 col-12 col-md-6 col-lg-3">
-                <div class="card-wrapper media-container-row">
-                    <div class="card-box">
-                        <h4 class="card-title pb-3 mbr-fonts-style display-7"><strong>
-                            Contact</strong></h4>
-                        <p class="mbr-text mbr-fonts-style display-7">
-                            Phone: &nbsp; &nbsp;0185727077<br><br>Visit us at University <br>Putra Malaysia, 43400 &nbsp;&nbsp;&nbsp;<br>Serdang, Selangor.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
 
   <script src="assets2/web/assets/jquery/jquery.min.js"></script>
